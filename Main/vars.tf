@@ -1,0 +1,9 @@
+variable "vpc_cidr_block" {}
+variable "pub1_az" {}
+variable "pub1_cidr_block" {}
+variable "pub2_cidr_block" {}
+variable "pub2_az" {}
+variable "pri1_cidr_block" {}
+variable "pri1_az" {}
+variable "profile" {}
+variable "region" {}
